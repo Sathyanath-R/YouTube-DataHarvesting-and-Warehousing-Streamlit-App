@@ -11,6 +11,7 @@ Data management techniques including storage, retrieval, and manipulation using 
 Querying SQL databases for advanced data analysis and reporting.
 
 **Domain:** Social Media Analytics
+
 **Problem Statement:** The objective is to build a Streamlit application enabling users to explore and analyze data from multiple YouTube channels. Key functionalities include:
 
 Retrieval of relevant data such as channel statistics, video metrics, and audience engagement metrics using the YouTube API.
