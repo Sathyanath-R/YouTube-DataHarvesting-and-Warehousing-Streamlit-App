@@ -12,8 +12,9 @@ Querying SQL databases for advanced data analysis and reporting.
 
 **Domain:** Social Media Analytics
 
-**Problem Statement:** The objective is to build a Streamlit application enabling users to explore and analyze data from multiple YouTube channels. Key functionalities include:
+**Problem Statement:** The objective is to build a Streamlit application enabling users to explore and analyze data from multiple YouTube channels. 
 
+**Key functionalities include:**
 Retrieval of relevant data such as channel statistics, video metrics, and audience engagement metrics using the YouTube API.
 Storage of collected data in MongoDB as an unstructured data repository.
 Collection of data from up to 10 distinct YouTube channels and storage in the data repository.
