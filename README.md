@@ -22,12 +22,19 @@ Migration of data from the data repository to a SQL database for structured anal
 Implementation of search and retrieval capabilities from the SQL database, including data merging for comprehensive channel insights.
 
 **Approach:**
-Development of a Streamlit application: Design a user-friendly interface for input and data visualization using Streamlit.
-Integration with the YouTube API: Utilize the Google API client library to fetch channel and video data.
-Establishment of a MongoDB data repository: Store collected data in MongoDB, suitable for handling diverse data types.
-Migration of data to a SQL database: Transfer data from MongoDB to a SQL database (MySQL) for structured storage and analysis.
-Querying the SQL database: Utilize SQL queries, potentially with libraries, to retrieve and process data.
-Presentation of data in the Streamlit application: Showcase retrieved data through interactive visualizations and insights using Streamlit's capabilities.
+
+**Development of a Streamlit application:** Design a user-friendly interface for input and data visualization using Streamlit.
+
+**Integration with the YouTube API:** Utilize the Google API client library to fetch channel and video data.
+
+**Establishment of a MongoDB data repository:** Store collected data in MongoDB, suitable for handling diverse data types.
+
+**Migration of data to a SQL database:** Transfer data from MongoDB to a SQL database (MySQL) for structured storage and analysis.
+
+**Querying the SQL database:** Utilize SQL queries, potentially with libraries, to retrieve and process data.
+
+**Presentation of data in the Streamlit application:** Showcase retrieved data through interactive visualizations and insights using Streamlit's capabilities.
+
 Documentation Reference Links:
 
 **Streamlit Documentation:** https://docs.streamlit.io/
