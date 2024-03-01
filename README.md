@@ -35,7 +35,7 @@ Implementation of search and retrieval capabilities from the SQL database, inclu
 
 **Presentation of data in the Streamlit application:** Showcase retrieved data through interactive visualizations and insights using Streamlit's capabilities.
 
-Documentation Reference Links:
+**Documentation Reference Links:**
 
 **Streamlit Documentation:** https://docs.streamlit.io/
 
