@@ -9,8 +9,9 @@ Creation of interactive web applications with Streamlit for user-friendly data v
 Integration of APIs, particularly the YouTube API, for retrieving data from online platforms.
 Data management techniques including storage, retrieval, and manipulation using MongoDB and MySQL databases.
 Querying SQL databases for advanced data analysis and reporting.
-Domain: Social Media Analytics
-Problem Statement: The objective is to build a Streamlit application enabling users to explore and analyze data from multiple YouTube channels. Key functionalities include:
+
+**Domain:** Social Media Analytics
+**Problem Statement:** The objective is to build a Streamlit application enabling users to explore and analyze data from multiple YouTube channels. Key functionalities include:
 
 Retrieval of relevant data such as channel statistics, video metrics, and audience engagement metrics using the YouTube API.
 Storage of collected data in MongoDB as an unstructured data repository.
